@@ -1,6 +1,5 @@
 # kings-cuisine
 
-# kingsasiancuisine.com
 
 ## Project setup
 ```
